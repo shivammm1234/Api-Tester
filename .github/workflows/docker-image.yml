@@ -1,4 +1,6 @@
 name: Docker Build -> Push -> Deploy
+run-name: Build & Deploy API Tester
+
 
 on:
   push:
